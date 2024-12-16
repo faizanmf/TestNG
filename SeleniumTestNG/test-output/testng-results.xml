@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="2" passed="2" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2024-12-16T15:58:56 IST" name="Default suite" finished-at="2024-12-16T15:58:56 IST" duration-ms="51">
+    <groups>
+    </groups>
+    <test started-at="2024-12-16T15:58:56 IST" name="Default test" finished-at="2024-12-16T15:58:56 IST" duration-ms="51">
+      <class name="TestNGAnnotation.MultipleTest">
+        <test-method is-config="true" signature="BeforeSuite()[pri:0, instance:TestNGAnnotation.MultipleTest@3bd82cf5]" started-at="2024-12-16T15:58:56 IST" name="BeforeSuite" finished-at="2024-12-16T15:58:56 IST" duration-ms="11" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- BeforeSuite -->
+        <test-method is-config="true" signature="BeforeTest()[pri:0, instance:TestNGAnnotation.MultipleTest@3bd82cf5]" started-at="2024-12-16T15:58:56 IST" name="BeforeTest" finished-at="2024-12-16T15:58:56 IST" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- BeforeTest -->
+        <test-method is-config="true" signature="BeforeClass()[pri:0, instance:TestNGAnnotation.MultipleTest@3bd82cf5]" started-at="2024-12-16T15:58:56 IST" name="BeforeClass" finished-at="2024-12-16T15:58:56 IST" duration-ms="1" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- BeforeClass -->
+        <test-method is-config="true" signature="BeforeMethod()[pri:0, instance:TestNGAnnotation.MultipleTest@3bd82cf5]" started-at="2024-12-16T15:58:56 IST" name="BeforeMethod" finished-at="2024-12-16T15:58:56 IST" duration-ms="1" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- BeforeMethod -->
+        <test-method signature="Test1()[pri:0, instance:TestNGAnnotation.MultipleTest@3bd82cf5]" started-at="2024-12-16T15:58:56 IST" name="Test1" finished-at="2024-12-16T15:58:56 IST" duration-ms="14" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Test1 -->
+        <test-method is-config="true" signature="AfterMethod()[pri:0, instance:TestNGAnnotation.MultipleTest@3bd82cf5]" started-at="2024-12-16T15:58:56 IST" name="AfterMethod" finished-at="2024-12-16T15:58:56 IST" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- AfterMethod -->
+        <test-method signature="Test2()[pri:0, instance:TestNGAnnotation.MultipleTest@3bd82cf5]" started-at="2024-12-16T15:58:56 IST" name="Test2" finished-at="2024-12-16T15:58:56 IST" duration-ms="2" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Test2 -->
+        <test-method is-config="true" signature="BeforeMethod()[pri:0, instance:TestNGAnnotation.MultipleTest@3bd82cf5]" started-at="2024-12-16T15:58:56 IST" name="BeforeMethod" finished-at="2024-12-16T15:58:56 IST" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- BeforeMethod -->
+        <test-method is-config="true" signature="AfterMethod()[pri:0, instance:TestNGAnnotation.MultipleTest@3bd82cf5]" started-at="2024-12-16T15:58:56 IST" name="AfterMethod" finished-at="2024-12-16T15:58:56 IST" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- AfterMethod -->
+        <test-method is-config="true" signature="AfterClass()[pri:0, instance:TestNGAnnotation.MultipleTest@3bd82cf5]" started-at="2024-12-16T15:58:56 IST" name="AfterClass" finished-at="2024-12-16T15:58:56 IST" duration-ms="1" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- AfterClass -->
+        <test-method is-config="true" signature="AfterTest()[pri:0, instance:TestNGAnnotation.MultipleTest@3bd82cf5]" started-at="2024-12-16T15:58:56 IST" name="AfterTest" finished-at="2024-12-16T15:58:56 IST" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- AfterTest -->
+        <test-method is-config="true" signature="AfterSuite()[pri:0, instance:TestNGAnnotation.MultipleTest@3bd82cf5]" started-at="2024-12-16T15:58:56 IST" name="AfterSuite" finished-at="2024-12-16T15:58:56 IST" duration-ms="1" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- AfterSuite -->
+      </class> <!-- TestNGAnnotation.MultipleTest -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
